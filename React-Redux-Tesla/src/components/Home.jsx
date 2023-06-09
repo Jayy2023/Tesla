@@ -38,8 +38,7 @@ function Home() {
     />
      <Section 
           title="Meet Your Creator"
-          description=" Hey my name is Jordan Couch a developer who created a React-based Tesla app. 
-          This app enables users to make custom orders or view the existing inventory of Tesla vehicles." 
+          description=" Hey my name is Jordan Couch a developer who created a React-based Tesla app."
           backgroundImg="Tesla.jpg"
           leftBtnText="Portfolio"
           sideImg={jordanTeslaImage}
